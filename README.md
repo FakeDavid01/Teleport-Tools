@@ -16,4 +16,4 @@ A comprehensive teleportation utility script for Roblox platform with advanced p
 Execute the following script in your Roblox executor:
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/FakeDavid01/Teleport-Tools/main/script.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/FakeDavid01/Teleport-Tools/main/Loader.lua"))()
