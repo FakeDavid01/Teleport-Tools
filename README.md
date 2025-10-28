@@ -1,16 +1,19 @@
-# 🚀 Teleport Tools for Roblox
+# Teleport Tools
 
-[![Version](https://img.shields.io/badge/Version-1.0.0-brightgreen)](https://github.com/UsernameKamu/TeleportTools)
-[![License](https://img.shields.io/badge/License-MIT-blue)](LICENSE)
+A comprehensive teleportation utility script for Roblox platform with advanced positioning features.
 
-Advanced teleportation script for Roblox with beautiful UI, sound effects, and auto-farming system.
+## Features
 
-## ✨ Features
+- **Automatic Teleportation** - Automated position navigation with configurable parameters
+- **Delayed Teleportation** - Scheduled teleport execution with customizable timing
+- **Current Position Capture** - Real-time coordinate acquisition and storage
+- **Custom Position Management** - User-defined location database with labeling system
+- **Classic UI Interface** - Traditional menu-based control panel
+- **Notification System** - Real-time status updates and operation feedback
 
-- 🎯 **Auto Teleport** - Automatic cycling through saved positions
-- ⚡ **Custom Coordinates** - Add positions via coordinates (X,Y,Z)
-- 💾 **Save/Load System** - Save multiple positions and manage them
-- 🎨 **Beautiful UI** - Modern interface with glowing effects
-- 🔊 **Sound System** - Background music and sound effects
-- ⌨️ **Hotkey Support** - RightCtrl to show/hide UI
-- 🎮 **Drag & Drop** - Move UI anywhere on screen
+## Installation
+
+Execute the following script in your Roblox executor:
+
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/FakeDavid01/Teleport-Tools/main/script.lua"))()
